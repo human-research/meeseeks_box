@@ -1,0 +1,9 @@
+pypdf2
+pdf2image
+pymupdf
+langdetect
+pillow
+reportlab
+pdfminer.six
+google-generativeai
+pytesseract
