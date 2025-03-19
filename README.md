@@ -1,2 +1,1 @@
-# meeseeks_box
-Simple task resolver
+You know, task should be really simple
